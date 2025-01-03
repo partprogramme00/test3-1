@@ -1,16 +1,10 @@
-import Link from 'next/link'
 import React from 'react'
 
-const Home = () => {
+const Albums = () => {
   return (
-    <section>
-         <h1 className="text-base font-bold ">HALLO BANG</h1>
-             <Link href="/albums">ALBUMS PAGE</Link>
-             <br/>
-            <Link href="./posts/webtest">POSTS PAGE</Link>
-    </section>
+    <div>page</div>
     
   )
 }
 
-export default Home
+export default Albums
