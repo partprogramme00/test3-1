@@ -1,10 +1,9 @@
 import React from 'react'
 
-const Albums = () => {
+const Posts = () => {
   return (
-    <div>page</div>
-    
+    <h1>page</h1>
   )
 }
 
-export default Albums
+export default Posts
